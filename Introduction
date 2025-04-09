@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Website Cá Nhân của Tôi</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Chào mừng đến với trang của tôi!</h1>
+    <p>Tôi là [Tên bạn], một người đam mê [ngành nghề/sở thích].</p>
+  </header>
+
+  <section id="about">
+    <h2>Giới thiệu</h2>
+    <p>Tôi hiện đang học/làm việc tại [nơi học/làm]. Đây là nơi tôi chia sẻ về công việc, dự án và cuộc sống.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Dự án</h2>
+    <ul>
+      <li><strong>Dự án 1:</strong> Mô tả ngắn về dự án đầu tiên</li>
+      <li><strong>Dự án 2:</strong> Mô tả ngắn về dự án thứ hai</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Liên hệ</h2>
+    <p>Email: <a href="mailto:ban@example.com">ban@example.com</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Bản quyền thuộc về bạn.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
